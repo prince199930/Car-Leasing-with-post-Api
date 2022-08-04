@@ -1,0 +1,157 @@
+.leaseterm{
+    background-color: #38a3ab;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    height: 99vh;
+    padding: 8px;
+}
+
+.leasevalues{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    column-gap: 12px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.leaseopt{
+    width: 13%;
+    padding: 4px;
+    border-radius: 4px;
+    background-color: #2f767c;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin-top: -8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.479);
+}
+
+.leaseopt:hover{
+    cursor: pointer;
+    background-color: #3ea6ad;
+}
+
+.novatedcar{
+    display: flex;
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 129px;
+}
+
+.novated{
+    width: 50%;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.novated:hover{
+    cursor: pointer;
+}
+
+.novvalue{
+    font-size: 20px;
+}
+
+.car{
+    width: 50%;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.car:hover{
+    cursor: pointer;
+}
+
+img{
+    width:41px;
+}
+
+.estimation{
+    display: flex;
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    height: 85px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 2px;
+    column-gap: 8px;
+}
+
+hr{
+    color: #38a3ab;
+}
+
+.calculationvalue{
+    display: flex;
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 49px;
+    justify-content: center;
+    text-align: left;
+    color: #fff;
+    border-bottom: 0.1px solid #38a3ab;
+}
+
+.calclabel{
+    width:36%;
+    height: 100%;
+    background-color: #27484c;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+.calcsacrifice{
+    width:36%;
+    height: 100%;
+    text-align: right;
+    padding-right: 8px;
+    padding-top: 8px;
+}
+.calcnosacrifice{
+    width:36%;
+    height: 100%;
+    text-align: right;
+    padding-right: 8px;
+    padding-top: 8px;
+}
+
+.estimatehome{
+    width: 96%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 49px;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+.taketitle{
+    width: 36%;
+    height: 100%;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+.takesacrifice{
+    width: 36%;
+    height: 100%;
+    border-bottom-left-radius: 18px;
+    text-align: right;
+    padding-right: 8px;
+    padding-top: 8px;
+}
+.takenosacrifice{
+    width: 36%;
+    height: 100%;
+    border-bottom-left-radius: 18px;
+    text-align: right;
+    padding-right: 8px;
+    padding-top: 8px;
+}
